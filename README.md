@@ -45,12 +45,18 @@ Key points:
 |                             |                              |
 |                             |                              |
 
+![WhatsApp Image 2026-03-12 at 11 25 56 AM](https://github.com/user-attachments/assets/5a82e20c-1cd7-4a21-8a64-c972fa756011)
+
+
 ---
 
 ## MODEL GRAPH
 *(Insert IV characteristics graph and optical power plots here)*
+![WhatsApp Image 2026-03-12 at 11 25 48 AM](https://github.com/user-attachments/assets/a7f85b4f-b355-49ab-9f54-5351b6ca77a5)
+
 
 ---
+
 
 ## RESULT
 - The IV characteristics of the fiber optic LED were studied.  
